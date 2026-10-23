@@ -6,7 +6,7 @@ Attempt number 3
 
 This is a single-page responsive portfolio website created as part of a lab assignment. The website showcases personal information, projects, skills, and contact details. It is built using **HTML**, and **CSS**.
 
-- URL Link to website portfolio: [Click Here](hhttps://havewilldied23.github.io/Portfolios/)
+- URL Link to website portfolio: [Click Here](https://havewilldied23.github.io/Portfolios/)
 - URL Link to website design: [Click Here](https://canva.link/7w2kq265xy4qll1)
 
 ## Purpose
@@ -53,7 +53,7 @@ The site is optimized for:
 ## 📂 Folder Structure
 
 ```bash
-portfolio-website/
+portfolios/
 │
 ├── index.html
 ├── style.css
